@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.iconscout.com/icon/premium/png-128-thumb/code-285-477267.png)]
 <h1 align="center">Olá 👋, Meu nome é Henrique</h1>
 <h3 align="center">Sou desenvolvedor back-end.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
